@@ -8,6 +8,7 @@
 I have been passionate about Programing. I always try to write simple and easy code.
 Love to solve problems.
 
-Skills: C/C++/JAVA/PYTHON/ HTML / CSS/ ReactJs/
+Skills: C/C++/JAVA/PYTHON/ HTML / CSS/ ReactJs/Next-Js/Flutter/Dart
+
 
 
